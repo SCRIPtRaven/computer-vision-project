@@ -169,6 +169,7 @@ cython_debug/
 
 poetry.lock
 data/
+processed_data/
 
 # PyPI configuration file
 .pypirc
