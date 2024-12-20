@@ -1,3 +1,4 @@
+```
 data
     ├───ground_truth
     │   ├───test
@@ -15,3 +16,4 @@ data
     └───original
         ├───test
         └───train
+```
